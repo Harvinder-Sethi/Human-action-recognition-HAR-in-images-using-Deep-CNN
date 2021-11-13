@@ -3,6 +3,8 @@
 # Problem Definition
 To develop a Deep Convolutional network to identify the actions of people from sill images (Human Action Recognition). HAR has wide range of applications in IOT, streaming web, monitoring/security. Mostly HAR is performed with videos to achieve the above, but due to less compute, resources, low end devices also present in market we may have to do it on still images as well, and that is what we will be designing.
 
+# Data
+You can find the image dataset here- https://drive.google.com/file/d/1L4sQTxs5I14zfH9kz0r7UWaIXkAxHF6g/view?usp=sharing 
 
 # Exploratory Data Analysis
 The dataset of images consists of 9532 images including test and train along with their action and action_class label values in csv format files. This problem is called as Multi-Class Multi-Label Image classification problem.
