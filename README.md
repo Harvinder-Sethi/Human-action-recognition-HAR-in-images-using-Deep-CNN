@@ -77,6 +77,7 @@ Fig.1.2
 
 
 Fig.1.3
+
 ![image](https://user-images.githubusercontent.com/29870980/141604457-f8466f4e-e32d-4821-afc1-cdfce11dedbb.png)
 ![image](https://user-images.githubusercontent.com/29870980/141604461-63446d8f-e8dd-4088-aae4-fbc8823aca01.png)
 
@@ -87,8 +88,10 @@ Fig.1.4
 ![image](https://user-images.githubusercontent.com/29870980/141604466-9a48161d-051c-4427-9ce5-0c22fb6a86c7.png)
 
 Fig.1.5
+
 ![image](https://user-images.githubusercontent.com/29870980/141604470-f6cde448-693e-4e56-8a63-6b06ea3a639f.png)
 
  
 Fig1.6
-![image](https://user-images.githubusercontent.com/29870980/141604425-4b840c10-2b4f-4d92-a9ec-eb0a5bcb3b12.png)
+
+![image](https://user-images.githubusercontent.com/29870980/141604532-7ccba5b0-1e37-4f4d-92ac-bd7a5bb64b3d.png)
